@@ -1,0 +1,45 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": [
+        {"text": "Paris"},
+        {"text": "London"},
+        {"text": "Berlin"},
+        {"text": "Madrid"}
+      ],
+      "selectedOption": null
+    },
+    {
+      "id": 2,
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        {"text": "Leonardo da Vinci"},
+        {"text": "Pablo Picasso"},
+        {"text": "Vincent van Gogh"},
+        {"text": "Michelangelo"}
+      ],
+      "selectedOption": null
+    },
+    
+    
+    {
+     "id":3,
+     "question": "What is the capital of Tokyo ?", 
+      "options":[
+         {"text":"Delhi"},
+         {"text":"Moscow"},
+         {"text":"Torronto"},
+         {"text":"Tokyo"}
+
+      ],
+      "selectedOption":null
+
+
+    }
+
+
+
+  ]
+}
